@@ -1,5 +1,5 @@
 
-# Code-generator LLM Augmentation Pipeline
+# Code-generator LLM Synthetic / Heuristic Augmentation Pipeline
 
 A **one-click Colab** turns raw, multi-lingual code into a polished, *Python-only* instruction dataset that is larger, cleaner, and more diverse—ready for fine-tuning code LLMs or repair tasks.
 
