@@ -1,5 +1,5 @@
 
-# Liquid-AI Code Aug-Pipeline
+# Code-generator LLM Augmentation Pipeline
 
 A **one-click Colab** turns raw, multi-lingual code into a polished, *Python-only* instruction dataset that is larger, cleaner, and more diverse—ready for fine-tuning code LLMs or repair tasks.
 
@@ -25,10 +25,10 @@ ingest → filter → augment\_dataset → postprocess → upload\_to\_hf
 ```
 
 📦 Final dataset uploaded to:  
-[https://huggingface.co/datasets/Inessssa/liquidai-aug-eb50bee8](https://huggingface.co/datasets/Inessssa/liquidai-aug-eb50bee8) (private)  
+[https://huggingface.co/datasets/Inessssa/liquidai-aug-eb50bee8](https://huggingface.co/datasets/Inessssa/liquidai-aug-eb50bee8) (private, DM me for access)  
 ⏱️ Total pipeline runtime with Colab's free T4 GPU: **1:26:50**
 
-🔓 The raw dataset is also hosted on Hugging Face to ensure reproducibility and transparency, useful for anyone looking to re-run the pipeline from scratch or compare filtered vs. augmented results.
+🔓 The raw dataset is also hosted on Hugging Face to ensure reproducibility and transparency, useful for anyone looking to re-run the pipeline from scratch or compare filtered vs. augmented results (DM me for access as well).
 
 
 ## 🔍 Filtering: keep only the good stuff
